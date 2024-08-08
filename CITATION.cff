@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Numerical Inverse LT of Amplitude of two viscous
+  superposed fluids
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Valentin
+    family-names: Rosario
+    email: vrosario@bluewin.ch
+    affiliation: UvA
+identifiers:
+  - type: url
+    value: >-
+      https://www.mathworks.com/matlabcentral/fileexchange/39035-numerical-inverse-laplace-transform
+    description: >-
+      Tucker McClure (2024). Numerical Inverse Laplace
+      Transform 
+  - type: doi
+    value: 10.1063/1.863522
+    description: >-
+      Motion of two superposed viscous fluids, Andrea
+      Prosperetti
+repository-code: >-
+  https://github.com/Computational-Multiphase-Physics/Motion-of-two-superimposed-layers
